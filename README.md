@@ -1,24 +1,19 @@
 # ACG-Ballroom
-ACG Ballroom - The floor is yours.
 
-## Run locally
+> ACG Ballroom - The floor is yours. 
 
-This project is intended to run from a web server so the room JSON and iframe assets load correctly.
+## Install
 
-From the `konomi/github/ACG` folder:
-
-```powershell
-python -m http.server 8000
+```
+(see repo for install)
 ```
 
-Then open:
+## Links
 
-```text
-http://localhost:8000/acg_ballroom.html?ballroom=br.konomi
-```
+- FallMarket listing: https://sjgant80-hub.github.io/fallmarket/listing.html?id=ACG-Ballroom
+- Source: https://github.com/sjgant80-hub/ACG-Ballroom
+- Playground: https://sjgant80-hub.github.io/ACG-Ballroom/
 
-## Konomi Room
+## License
 
-The Konomi room is available in the ballroom as `br.konomi` and contains the `konomioke.com` wall screen.
-
-If the live iframe content is blocked, use the open button in the screen UI to launch the current URL in a new tab.
+MIT · Copyright 2026 AI-Native Solutions · https://ai-nativesolutions.com
